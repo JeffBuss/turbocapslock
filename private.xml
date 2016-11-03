@@ -88,5 +88,25 @@
             KeyCode::Z, ModifierFlag::FN,
             KeyCode::CURSOR_LEFT, ModifierFlag::CONTROL_L, | ModifierFlag::COMMAND_L | ModifierFlag::SHIFT_L
         </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::QUOTE, ModifierFlag::FN,
+            KeyCode::CURSOR_UP, ModifierFlag::CONTROL_L, | ModifierFlag::COMMAND_L
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::SLASH, ModifierFlag::FN,
+            KeyCode::CURSOR_DOWN, ModifierFlag::CONTROL_L, | ModifierFlag::COMMAND_L
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::SEMICOLON, ModifierFlag::FN,
+            KeyCode::L, ModifierFlag::COMMAND_L
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::G, ModifierFlag::FN,
+            KeyCode::K, ModifierFlag::CONTROL_L | ModifierFlag::SHIFT_L
+        </autogen>
     </item>
 </root>
