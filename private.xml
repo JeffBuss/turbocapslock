@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <root>
     <item>
-        <name>JKLI to Arrow Keys</name>
-        <identifier>private.jkli_to_arrow_keys</identifier>
+        <name>TURBOCAPSLOCK</name>
+        <identifier>private.turbocapslock</identifier>
         <autogen>
             __KeyToKey__
             KeyCode::J, ModifierFlag::FN,
@@ -107,6 +107,11 @@
             __KeyToKey__
             KeyCode::G, ModifierFlag::FN,
             KeyCode::K, ModifierFlag::CONTROL_L | ModifierFlag::SHIFT_L
+        </autogen>
+        <autogen>
+            __KeyToKey__
+            KeyCode::F19,
+            KeyCode::FN
         </autogen>
     </item>
 </root>
