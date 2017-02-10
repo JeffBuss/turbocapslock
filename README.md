@@ -1,5 +1,7 @@
 ## TURBOCAPSLOCK 
 
+Note: This does NOT work on macOS Sierra
+
 ### Overview
 
 Do you ever use caps lock? No? How about we turn the most well-placed modifier key on the keyboard into something significantly more useful. We'll use Seil to remap your caps lock key to FN, which by default is used as a modifier for basically nothing besides the actual function keys. Then the private.xml file in this repo can be loaded into Karabiner with all the keybindings listed below.
